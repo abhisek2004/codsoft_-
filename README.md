@@ -1,7 +1,7 @@
 # codsoft_Web-Development
 
 This is Project is given by codsoft as Intership 
-My 1st Task- Calculator
+1st Task- Calculator
 2nd Task- LANDING PAGE 
 3rd Task- Portfolio
 
